@@ -28,12 +28,12 @@ no_index:
 provides:
   Path::Canonical:
     file: lib/Path/Canonical.pm
-    version: '0.01'
+    version: '0.02'
 requires:
   perl: '5.008005'
 resources:
   bugtracker: https://github.com/mattn/p5-Path-Canonical/issues
   homepage: https://github.com/mattn/p5-Path-Canonical
   repository: git://github.com/mattn/p5-Path-Canonical.git
-version: '0.01'
+version: '0.02'
 x_authority: cpan:MATTN
