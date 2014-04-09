@@ -56,7 +56,7 @@
    "provides" : {
       "Path::Canonical" : {
          "file" : "lib/Path/Canonical.pm",
-         "version" : "0.03"
+         "version" : "0.04"
       }
    },
    "release_status" : "stable",
@@ -70,7 +70,7 @@
          "web" : "https://github.com/mattn/p5-Path-Canonical"
       }
    },
-   "version" : "0.03",
+   "version" : "0.04",
    "x_authority" : "cpan:MATTN",
    "x_contributors" : [
       "lestrrat <lestrrat+github@gmail.com>"

@@ -7,6 +7,7 @@ cpanfile
 lib/Path/Canonical.pm
 minil.toml
 t/00_compile.t
-t/01_simple.t
+t/01_canon_path.t
+t/02_canon_filepath.t
 META.yml
 MANIFEST
